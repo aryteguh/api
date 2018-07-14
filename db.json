@@ -1,6 +1,6 @@
 {
 "products": [
-[{"id":1,"name":"Sonair","category":"Purple"},
+{"id":1,"name":"Sonair","category":"Purple"},
 {"id":2,"name":"Fintone","category":"Yellow"},
 {"id":3,"name":"Matsoft","category":"Crimson"},
 {"id":4,"name":"Span","category":"Crimson"},
@@ -19,6 +19,6 @@
 {"id":17,"name":"Y-find","category":"Pink"},
 {"id":18,"name":"Vagram","category":"Puce"},
 {"id":19,"name":"Pannier","category":"Red"},
-{"id":20,"name":"Wrapsafe","category":"Goldenrod"}]
+{"id":20,"name":"Wrapsafe","category":"Goldenrod"}
 ]
 }
