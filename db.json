@@ -1,0 +1,24 @@
+{
+"products": [
+[{"id":1,"name":"Sonair","category":"Purple"},
+{"id":2,"name":"Fintone","category":"Yellow"},
+{"id":3,"name":"Matsoft","category":"Crimson"},
+{"id":4,"name":"Span","category":"Crimson"},
+{"id":5,"name":"Vagram","category":"Mauv"},
+{"id":6,"name":"Stim","category":"Khaki"},
+{"id":7,"name":"Kanlam","category":"Turquoise"},
+{"id":8,"name":"Konklux","category":"Mauv"},
+{"id":9,"name":"It","category":"Indigo"},
+{"id":10,"name":"Overhold","category":"Fuscia"},
+{"id":11,"name":"Fintone","category":"Green"},
+{"id":12,"name":"Alphazap","category":"Green"},
+{"id":13,"name":"Span","category":"Red"},
+{"id":14,"name":"Bitchip","category":"Maroon"},
+{"id":15,"name":"Andalax","category":"Green"},
+{"id":16,"name":"Bytecard","category":"Orange"},
+{"id":17,"name":"Y-find","category":"Pink"},
+{"id":18,"name":"Vagram","category":"Puce"},
+{"id":19,"name":"Pannier","category":"Red"},
+{"id":20,"name":"Wrapsafe","category":"Goldenrod"}]
+]
+}
